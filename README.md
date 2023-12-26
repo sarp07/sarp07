@@ -26,6 +26,8 @@ Daha çok web yazılım ve blockchain alanında uzmanım. Resmi olarak 4 yıllı
 - **Proje 1:** [MetaCyber NFT Card Battle Game](https://github.com/sarp07/NewNFT-CardGame) - ERC1155 tabanlı bir NFT PvP oyunu.
 - **Proje 2:** [SciFi Farmers](https://github.com/sarp07/FarmerGame) - NFT Stake Protocol kullanan basit bir WEB3 oyunu.
 - **Proje 3:** [Bitracoin.com](https://github.com/BITRATECH/Bitracoin.com) - Bitracoin Projesi Resmi Websitesi.
+- **Proje 4:** [Microciredittoken.com](https://microcredittoken.com) - MCT Resmi Websitesi.
+- **Proje 5:** [Nottobeortobe.com](https://nottobeortobe.com) - Cryonics Project Websitesi.
 
 ## İletişim
 - E-posta: [queneci77@gmail.com](mailto:queneci77@gmail.com)
