@@ -1,61 +1,67 @@
-# Merhaba! 👋
+Hello! 👋
 
-Ben Sarp, öncelikle size kendimden bahsetmek istiyorum. Antalya'da yaşıyorum ve 1994 doğumluyum. 2011 yılından beri basit web siteleri yaparak yazılım sektörüne giriş yaptım. 2012 yılında blockchain ile tanıştım ve Bitcoin konusunda büyük bir ilgi ve merak duydum. Bu merakım beni bu alanda kendimi geliştirmeye yönlendirdi. Reklam ve tabela sektöründe uzun yıllar çalıştım. Kendi firmamı işlettikten ve aynı zamanda web sitesi hizmeti sunduktan sonra kendimi oldukça geliştirdiğime inanıyorum. Çalıştığım projelerde alışılagelmiş düzen ve sorun çözme yöntemlerinden ziyade daha pratik ve özgün sonuçlar elde etmeyi tercih ederim. Memnuniyet benim için en önemli unsurlardan biridir. Emek harcadığım projeler öncelikle beni memnun etmeli ki proje sahiplerini de memnun edebileyim. Anahtar teslim kurumsal siteler ve blockchain DApp projeleri konusunda hizmet veriyorum. Bu konularda benden destek veya yardım almak isterseniz bana e-posta yoluyla veya Instagram üzerinden ulaşabilirsiniz.
+I'm Sarp, and I'd like to start by telling you a bit about myself. I live in Antalya and was born in 1994. I entered the software industry in 2011 by creating simple websites. I discovered blockchain in 2012 and developed a significant interest and curiosity about Bitcoin, which prompted me to advance my skills in this area. I have worked in the advertising and signage industry for many years. After running my own company and providing website services, I believe I have significantly developed my skills. In the projects I work on, I prefer to achieve more practical and original results rather than sticking to conventional routines and problem-solving methods. Satisfaction is one of the most important elements for me. The projects I work on must first satisfy me so that they can also please the project owners. I offer services in turnkey corporate sites and blockchain DApp projects. If you would like support or assistance in these areas, you can reach me via email or on Instagram.
 
-## Hakkımda
-Daha çok web yazılım ve blockchain alanında uzmanım. Resmi olarak 4 yıllık deneyime sahibim. Blockchain sektörüne aktif olarak Bitranium projesi ile başladım (geliştirme tamamlanamadan proje rafa kaldırıldı). Kendimi geliştirerek birçok projede yer aldım. Şu anda freelance ve proje bazında hizmet vermekteyim. GitHub üzerinde yeniyim ve geliştirdiğim açık projeleri burada paylaşacağım. Deneyimim yoğun olarak ön yüz geliştirmesine odaklanmıştır. PHP ve JS ile BackEnd konularında da hizmet verebiliyorum. Mobil ve web uygulamaları için API (JSON API) hizmeti sağlayabiliyorum. Ayrıca, MySQL konusunda da uzmanlığım bulunmaktadır.
+## About Me
+I am primarily an expert in web software and blockchain. I have officially four years of experience. I actively started in the blockchain sector with the Bitranium project, which was shelved before development was completed. I have developed my skills and participated in many projects. I currently provide freelance and project-based services. I am new to GitHub and will share my open projects here. My experience is mainly focused on front-end development, but I can also provide services in PHP and JS for Backend issues. I can provide API services (JSON API) for mobile and web applications. I also have expertise in MySQL.
 
-## Teknolojiler ve Diller
+## Technologies and Languages
 - PHP
-- HTML ve CSS
+- HTML and CSS
 - React
 - JavaScript
 - Solidity
 - JSON API
 - MySQL
 
-## Tasarım
+## Design
 - Adobe Photoshop
 - CorelDraw
 
-## Dil
-- Türkçe
-- İngilizce
+## Language
+- Turkish
+- English
 
-## Projeler ve Katkılar
-- **Proje 1:** [MetaCyber NFT Card Battle Game](https://github.com/sarp07/NewNFT-CardGame) - ERC1155 tabanlı bir NFT PvP oyunu.
-- **Proje 2:** [SciFi Farmers](https://github.com/sarp07/FarmerGame) - NFT Stake Protocol kullanan basit bir WEB3 oyunu.
-- **Proje 3:** [Bitracoin.com](https://github.com/BITRATECH/Bitracoin.com) - Bitracoin Projesi Resmi Websitesi.
-- **Proje 4:** [Microciredittoken.com](https://microcredittoken.com) - MCT Resmi Websitesi.
-- **Proje 5:** [Nottobeortobe.com](https://nottobeortobe.com) - Cryonics Project Websitesi.
+## Projects and Contributions
+- **Project 1:** [MetaCyber NFT Card Battle Game](https://github.com/sarp07/NewNFT-CardGame) - An ERC1155-based NFT PvP game.
+- **Project 2:** [SciFi Farmers](https://github.com/sarp07/FarmerGame) - A simple WEB3 game using an NFT Stake Protocol.
+- **Project 3:** [Bitracoin.com](https://github.com/BITRATECH/Bitracoin.com) - Official Website of Bitracoin Project.
+- **Project 4:** [Microciredittoken.com](https://microcredittoken.com) - Official Website of MCT.
+- **Project 5:** [Nottobeortobe.com](https://nottobeortobe.com) - Cryonics Project Website.
 
-## İletişim
-- E-posta: [queneci77@gmail.com](mailto:queneci77@gmail.com)
+## Contact
+- Email: [queneci77@gmail.com](mailto:queneci77@gmail.com)
 - Instagram: [@erlsarp](https://www.instagram.com/erlsarp/)
+- Linkedin: [@sarp-erol](https://www.linkedin.com/in/sarp-erol)
 
-Görüşmek üzere!
+Looking forward to hearing from you!
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erlsarp) 
 
+[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/sarp-erol) 
+
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Icons showcasing proficiency in JavaScript, PHP, Solidity, CSS3, HTML5, among other technologies.
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarp07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarp07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarp07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Displays GitHub statistics like activity streaks and most used languages.
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarp07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Shows various GitHub trophies achieved by the user.
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarp07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Shows the top repositories where the user has contributed.
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+A random developer meme for a light-hearted touch.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarp07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
