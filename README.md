@@ -40,7 +40,7 @@ Looking forward to hearing from you!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erlsarp) 
 
-[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/sarp-erol) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sarp-erol) 
 
 # 💻 Tech Stack:
 Icons showcasing proficiency in JavaScript, PHP, Solidity, CSS3, HTML5, among other technologies.
