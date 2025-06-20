@@ -2,20 +2,29 @@
 
 I'm a multi-disciplinary software developer based in **Antalya, Turkey**, born in 1994. My journey into software started in 2011 with building simple websites. In 2012, I discovered **Bitcoin**, which sparked a deep interest in **blockchain technology** that continues to drive me today.
 
-Over the years, I've worked in various industries including advertising and signage, all while expanding my capabilities in **web development** and **blockchain applications**. I ran my own company and now offer **turnkey solutions** for both **corporate websites** and **decentralized applications (DApps)**.
+Over the years, I've worked in various industries including advertising and signage, all while expanding my capabilities in **web development**, **blockchain**, and **mobile technologies**. I ran my own company and now offer **turnkey solutions** for both **corporate websites** and **decentralized applications (DApps)**.
 
-My approach prioritizes **originality** and **practicality**—I strive to ensure that each project I work on is something I'm proud of, which in turn leads to greater client satisfaction.
+My approach prioritizes **originality**, **practicality**, and **user satisfaction**—I ensure each project I work on meets my standards first, so it can exceed expectations for users and clients alike.
 
 ---
 
 ## 💼 About Me
 
 - 🧠 **Expertise**: Web3 Development, Frontend & Backend Engineering, Mobile App Development (React Native)
-- 🧱 **Blockchain Focus**: Smart Contracts, NFT Projects, Web3 Integration
+- 🌐 **Blockchain Focus**: Smart Contracts, NFT Projects, DApps, and Web3 integrations
+- 💬 **Telegram Mini App Developer**: I actively develop **Telegram Mini Apps** integrated with Web3, including login, staking, and wallet connectivity features
+- 🧱 **Active Chains**:  
+  - **TON** (Telegram Open Network)  
+  - **Solana**  
+  - **Ethereum-based Networks** (EVM, BSC, Polygon)
+
+- 🌎 **Web3 Community Involvement**:  
+  - Attended and participated in **Token2049 Dubai** and similar major global blockchain events
+
 - 📦 **Backend Development**: RESTful APIs, JSON APIs, PHP, Node.js
-- 📱 **Mobile**: React Native applications integrated with Web3
 - 🗃️ **Databases**: MySQL, MongoDB
-- 🌍 **Languages**: Turkish (native), English (professional)
+- 📱 **Mobile**: React Native applications integrated with blockchain
+- 🗣️ **Languages**: Turkish (native), English (professional)
 
 ---
 
@@ -24,11 +33,11 @@ My approach prioritizes **originality** and **practicality**—I strive to ensur
 ### 🔧 Languages & Frameworks:
 - **JavaScript**, **PHP**, **HTML5**, **CSS3**
 - **React.js**, **React Native**, **Next.js**
-- **Solidity** (Smart Contracts)
+- **Solidity**, **TonScript**, **Rust (for Solana)**  
 - **Node.js**, **Express.js**
 
 ### 🗄️ Databases & APIs:
-- **MySQL**, **MongoDB**
+- **MongoDB**, **MySQL**
 - **JSON API**, **REST API**
 
 ### 🎨 Design Tools:
@@ -46,7 +55,9 @@ My approach prioritizes **originality** and **practicality**—I strive to ensur
 | [**Bitracoin.com**](https://github.com/BITRATECH/Bitracoin.com) | Corporate site for Bitracoin | HTML/CSS, JS |
 | [**Microciredittoken.com**](https://microcredittoken.com) | Crypto token project site | React, Web3 |
 | [**NotToBeOrToBe.com**](https://nottobeortobe.com) | Cryonics project website | Next.js |
-| [**Fainera.com**](https://fainera.com) *(Launched Jan 2025)* | Investment platform with Web3 wallet, TFLOPs staking, and token conversion features | Next.js, Web3, MongoDB, Node.js |
+| [**Fainera.com**](https://fainera.com) *(Launched Jan 2025)* | Investment platform with Web3 wallet, TFLOPs staking, and auto-swap features | Next.js, Web3, MongoDB, Node.js |
+| **TON / Telegram Web3 Mini Apps** | Custom Mini Apps for DeFi, staking, NFT drops | React + Telegram WebApp SDK + TonConnect |
+| **Solana Tools** | Web and mobile interfaces for staking and analytics | React, Solana SDK, Rust-based contracts |
 
 ---
 
@@ -72,9 +83,9 @@ My approach prioritizes **originality** and **practicality**—I strive to ensur
 
 ## 🏗️ Upcoming Contributions
 
-- Open-source tools for Web3 developer onboarding
-- Boilerplates for full-stack DApp development (Next.js + Solidity + MongoDB)
-- Experimental NFT mini-games on-chain
+- TON & Solana based Telegram Mini Apps for DeFi tools
+- Open-source boilerplates for full-stack DApp development
+- NFT staking and airdrop platforms
 
 ---
 
