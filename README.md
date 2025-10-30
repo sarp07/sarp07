@@ -58,7 +58,7 @@ My approach prioritizes **originality**, **practicality**, and **user satisfacti
 | [**Fainera.com**](https://fainera.com) *(Launched Jan 2025)* | Investment platform with Web3 wallet, TFLOPs staking, and auto-swap features | Next.js, Web3, MongoDB, Node.js |
 | **TON / Telegram Web3 Mini Apps** | Custom Mini Apps for DeFi, staking, NFT drops | React + Telegram WebApp SDK + TonConnect |
 | **Solana Tools** | Web and mobile interfaces for staking and analytics | React, Solana SDK, Rust-based contracts |
-| [**Zetarium De-Fi Project**] (https://www.zetarium.world/) | CTO |
+| [**Zetarium De-Fi Project**](https://www.zetarium.world/) | CTO | DeFi Platform Aggregator, Public Bond, Public Stake system. | 
 
 ---
 
