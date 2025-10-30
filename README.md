@@ -67,7 +67,7 @@ My approach prioritizes **originality**, **practicality**, and **user satisfacti
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erlsarp)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarp-erol)
 
-📧 Email: [queneci77@gmail.com](mailto:queneci77@gmail.com)
+📧 Email: [quenecia77@gmail.com](mailto:quenecia77@gmail.com)
 
 ---
 
