@@ -1,0 +1,34 @@
+name: Update player record
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Generate record.svg
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python _generator/record.py assets/record.svg
+      - name: Commit if changed
+        run: |
+          git config user.name "Solazan"
+          git config user.email "85551951+sarp07@users.noreply.github.com"
+          git add assets/record.svg
+          git diff --cached --quiet && exit 0
+          git commit --amend --no-edit
+          git push --force
